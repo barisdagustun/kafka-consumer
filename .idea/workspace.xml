@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da09568f-8af8-4bfd-bdf1-0b3b94a583c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Kstre</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1aLnQchWyyRXAmmbpZLLLkw90Ot" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\Desktop\HVL\kafka-json-consumer\src\com\kafka\client" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kafka.client.Run" />
+      <module name="kafka-json-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kafka.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da09568f-8af8-4bfd-bdf1-0b3b94a583c1" name="Default Changelist" comment="" />
+      <created>1586258832328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586258832328</updated>
+      <workItem from="1586258834889" duration="568000" />
+      <workItem from="1586259475820" duration="1796000" />
+      <workItem from="1586261326082" duration="1760000" />
+      <workItem from="1586263875803" duration="1728000" />
+      <workItem from="1586265764763" duration="1499000" />
+      <workItem from="1586269976158" duration="929000" />
+      <workItem from="1586271832240" duration="1767000" />
+      <workItem from="1586273700727" duration="1726000" />
+      <workItem from="1586275517719" duration="1234000" />
+      <workItem from="1586331209603" duration="610000" />
+      <workItem from="1586351615541" duration="598000" />
+      <workItem from="1586354208060" duration="1036000" />
+      <workItem from="1586361513971" duration="624000" />
+      <workItem from="1586372721602" duration="593000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16468000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="287" key="GridCell.Tab.0.bottom" timestamp="1586755597077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586755597077" />
+    <state width="1493" height="287" key="GridCell.Tab.0.center" timestamp="1586755597077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586755597077" />
+    <state width="1493" height="287" key="GridCell.Tab.0.left" timestamp="1586755597073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586755597073" />
+    <state width="1493" height="287" key="GridCell.Tab.0.right" timestamp="1586755597077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586755597077" />
+    <state width="1493" height="287" key="GridCell.Tab.1.bottom" timestamp="1586755597077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586755597077" />
+    <state width="1493" height="287" key="GridCell.Tab.1.center" timestamp="1586755597077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586755597077" />
+    <state width="1493" height="287" key="GridCell.Tab.1.left" timestamp="1586755597077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586755597077" />
+    <state width="1493" height="287" key="GridCell.Tab.1.right" timestamp="1586755597077">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="287" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586755597077" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>jsonNode.get(&quot;firstName&quot;).asText().equals(&quot;ertert&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>jsonNode.get(&quot;firstName&quot;).asText()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>jsonNode.get(&quot;firstName&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>jsonNode.get(&quot;firstName&quot;).toString().equals(&quot;ertert&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>jsonNode.get(&quot;firstName&quot;).toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>jsonNode.get(&quot;firstName&quot;).equals(&quot;ertert&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>jsonNode</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>record.value()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
